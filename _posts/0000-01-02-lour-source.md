@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+título: "Bienvenido a nuestra segunda diapositiva!"
 ---
-Lourdes Castillo
-Use the left arrow to go back!
+## Lourdes Castillo
+Usa la flecha izquierda para volver!
